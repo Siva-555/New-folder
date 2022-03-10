@@ -5,8 +5,9 @@ Hi martial peak!!.
 
 Change for bug1.
 
-change by team-mate
+Change by team-mate
 
-bug2---hello
 
-change by teammate.
+bug2:hello
+
+reb:change by teammate.

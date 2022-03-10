@@ -1,5 +1,7 @@
 hello world
-hi martial peak!!!
+hi martial peak!!.
 
 
-change for bug1
+change for bug1.
+
+bug2:hello
